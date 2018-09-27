@@ -54,6 +54,7 @@ func triangleParameters(_ a: Float, _ b: Float) {
     print("Периметр: \(P)")
     print("Гипотенуза: \(H)")
 }
+
 triangleParameters(4,3)
 triangleParameters(77,55)
 
