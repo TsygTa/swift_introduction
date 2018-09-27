@@ -86,6 +86,7 @@ func input(_ prompt: String) -> Float {
     }
     return 0
 }
+
 let sum = input("Введите первоначальную сумму вклада:")
 let percent = input("Введите годовой процент:")
 let years = 5
